@@ -1,9 +1,10 @@
-Developer currently involved with the [Discord Dungeons](https://discorddungeons.me) project. I program for practical reasons - such as useful tooling for communities I care about.
+<p align="center">🐈</br>Meow meow am kitty</p>
 
+Developer currently involved with the [Discord Dungeons](https://discorddungeons.me) project. I program for practical reasons - such as useful tooling for communities I care about.</br>
 Sometimes I do silly things out of boredom. 
 
 <details>
-    <summary><b>Skills</b></summary></br>
+    <summary><b>Skills</b></summary>
     
 - Willing To Learn
     - Gatsby.JS
@@ -20,12 +21,12 @@ Sometimes I do silly things out of boredom.
     - Discord platform
 </details>
 <details>
-    <summary><b>Interests</b></summary></br>
+    <summary><b>Interests</b></summary>
     
 Art, writing, music composition, Minecraft, chess (beginner, don't challenge me), etc. 
 </details>
 <details>
-    <summary><b>Niches</b></summary></br>
+    <summary><b>Niches</b></summary>
     
 - [Dialog](https://linusakesson.net/dialog/)
 - [BBTag](https://blargbot.xyz/tags)
