@@ -1,7 +1,8 @@
 <p align="center">🐈</br>Meow meow am kitty</p>
 
-Developer currently involved with the [Discord Dungeons](https://discorddungeons.me) project. I program for practical reasons - such as useful tooling for communities I care about.</br>
-Sometimes I do silly things out of boredom. 
+Developer currently involved with the [Discord Dungeons](https://discorddungeons.me) project.</br>
+Sometimes I do silly things out of boredom.</br>
+I believe in the "knowing where the information for things is" principle, because I can't learn everything. As long as I know the fundamentals of what something does, I can probably pick it up and learn it.
 
 <details>
     <summary><b>Skills</b></summary>
