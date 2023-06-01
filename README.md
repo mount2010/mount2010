@@ -1,4 +1,21 @@
-<p align="center">🐈</br>Meow meow am kitty</p>
+<pre style="text-align=center">
+              /\             /\
+             |`\\_,--="=--,_//`|
+             \ ."  :'. .':  ". /
+            ==)  _ :  '  : _  (==
+              |>/O\   _   /O\<|
+              | \-"~` _ `~"-/ |   jgs
+             >|`===. \_/ .===`|<
+       .-"-.   \==='  |  '===/   .-"-.
+.-----{'. '`}---\,  .-'-.  ,/---{.'. '}-----.
+ )    `"---"`     `~-===-~`     `"---"`    (
+(   __  __              _   _         _     )
+ ) |  \/  |___ _  _ _ _| |_(_)__ __ _| |_  (
+(  | |\/| / _ \ || | ' \  _| / _/ _` |  _|  )
+ ) |_|  |_\___/\_,_|_||_\__|_\__\__,_|\__| (
+(           🐈 Meow meow am kitty           )
+'-------------------------------------------'
+</pre>
 
 Developer currently involved with the [Discord Dungeons](https://discorddungeons.me) project.</br>
 Sometimes I do silly things out of boredom.</br>
